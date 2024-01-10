@@ -35,8 +35,6 @@ Mr.Pr1ngl3s https://github.com/MrPr1ngl3s
 
 S4vitar https://github.com/s4vitar
 
-ZLcube https://github.com/ZLCube
-
 
 Abaixo, uma pequena demonstração de como seu ambiente vai ficar:
 
