@@ -42,14 +42,6 @@ Abaixo, uma pequena demonstração de como seu ambiente vai ficar:
 
 ![Picture 2](preview/demo2.png)
 
---demo 2
-
-![Picture 1](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo1.png)
-
-![Picture 2](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo2.png)
-
-
-
 
 ********************** Atalhos UTEIS ****************************
 
@@ -82,6 +74,13 @@ Abaixo, uma pequena demonstração de como seu ambiente vai ficar:
 
 `desligar` desliga a maquina
 
+
+
+
+Dúvidas:
+
+Como trocar o wallpaper?
+`nano ~/.config/bspwm/bspwmrc` altere o destino/path da imagem nesse arquivo;
 
 
 Quaisquer dúvidas, fale comigo!
