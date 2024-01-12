@@ -38,15 +38,15 @@ S4vitar https://github.com/s4vitar
 
 Abaixo, uma pequena demonstração de como seu ambiente vai ficar:
 
-[Picture 1](preview/demo1.png)
+![Picture 1](preview/demo1.png)
 
-[Picture 2](preview/demo2.png)
+![Picture 2](preview/demo2.png)
 
 --demo 2
 
-[Picture 1](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo1.png)
+![Picture 1](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo1.png)
 
-[Picture 2](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo2.png)
+![Picture 2](https://raw.githubusercontent.com/al4xs/KaliBspwm/main/preview/demo2.png)
 
 
 
