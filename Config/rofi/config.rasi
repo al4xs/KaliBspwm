@@ -6,4 +6,4 @@ configuration {
   hide-scrollbar:     true;
   disable-history:    false;
 }
-@theme "/home/kali/.config/rofi/themes/launcher.rasi"
+@theme "/home/$(whoami)/.config/rofi/themes/launcher.rasi"
