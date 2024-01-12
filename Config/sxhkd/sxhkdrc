@@ -143,7 +143,7 @@ super + shift + g
 
 # BurpSuite
 super + shift + b
-	burp
+	burpsuite
 
 ###############
 # ScreenShots #

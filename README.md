@@ -43,14 +43,30 @@ Abaixo, uma pequena demonstração de como seu ambiente vai ficar:
 [Picture 2](https://github.com/al4xs/KaliBspwm/blob/main/preview/demo2.png)
 
 
-Atalhos uteis
+Atalhos UTEIS
 
-CTRL + ENTER = abre o terminal
-Windows + D = abre o menu principal
-Windows + W = fecha abas
-ALT + R = faz um reload
-CTRL + L = bloqueia a tela
+`Windows + ENTER` = abre o terminal
+
+`Windows + D` = abre o menu principal
+
+`Windows + W` = fecha abas
+
+`ALT + R` = faz um reload
+
+`Windows + L` = bloqueia a tela
+
+`Windows + Shift + ⬆⬇⮕⬅` = redimensiona workspace
+
+`CTRL + Windows + Alt + ⬆⬇⮕⬅` = seleciona uma workspace
+
+`CTRL + Windows + Alt + Backspace` = cancela uma workspace
 
 
+----- comandos no terminal ----
+
+`settarget 10.10.10.10 box.htb`  seta a box no target da polybar
+`pavucontrol` abre administração do audio
+`logout` faz logout na sua maquina
+`desligar` desliga a maquina
 
 Quaisquer duvidas, fale comigo!
